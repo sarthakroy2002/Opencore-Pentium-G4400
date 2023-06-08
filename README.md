@@ -1,11 +1,12 @@
-# Opencore-Pentium-G4400
+# Pentium G4400 + Gigabyte H110M-S2 Hackintosh (OpenCore)
 
-Opencore EFI for Intel Pentium G4400
+## Hardware specifications
+- CPU: Intel(R) Pentium(TM) G4400 CPU @ 3.30Ghz
+- GPU: Intel(R) HD Graphics 510
+- Motherboard: Gigabyte H110M-S2
 
-##TESTED WITH MACOS CATALINA
+## Current OpenCore Version
+0.5.9
 
-PROCESSOR- INTEL PENTIUM G4400 SKYLAKE PROCESSOR - 3.3GHZ 2C|2T
-GPU- ANY SUPPORTED GPU
-MOTHERBOARD- GIGABYTE H110M-S2
-
-OPENCORE VERSION- 0.5.9
+## Status
+Boots and almost everything works on macOS Catalina
